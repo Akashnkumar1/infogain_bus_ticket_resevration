@@ -1,4 +1,4 @@
-# infogain_bus_ticket_resevration
+# Infogain_bus_ticket_resevration
 InfoGain Bus Ticket Reservation System
 
 
