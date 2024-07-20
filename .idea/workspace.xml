@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f9f8dbb-1761-4f4b-9a73-020c6d4e9e53" name="Changes" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/services/gateway-service/src/test/java/com/busreservation/gatewayservice/GatewayServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/gateway-service/src/test/java/com/busreservation/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="9f9f8dbb-1761-4f4b-9a73-020c6d4e9e53" name="Changes" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721453332050</updated>
-      <workItem from="1721453333146" duration="21935000" />
+      <workItem from="1721453333146" duration="22282000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -194,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721474861853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1721475355034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721475355034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
