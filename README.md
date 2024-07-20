@@ -15,6 +15,9 @@ This project is a backend implementation of a bus ticket reservation system usin
 3. **Reservation Service**: Manages seat reservations and availability.
 4. **Payment Service**: Simulates payment processing.
 
+![image](https://github.com/user-attachments/assets/ed5dfdf2-044c-4b59-8ff3-dd2634bf34b6)
+
+
 ## Technologies
 
 - **Spring Boot** for microservice creation.
